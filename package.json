@@ -1,0 +1,16 @@
+{
+  "name": "powerfulapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "srart": "nodemon index.js"
+  },
+  "author": "Scott Divelbiss",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.5.0",
+    "mongoose": "^5.1.2",
+    "nodemon": "^1.17.4"
+  }
+}
